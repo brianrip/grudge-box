@@ -89,6 +89,13 @@ header {
   text-align: center;
 }
 
+h3.page-title {
+  margin-bottom: 0.5em;
+
+  font-weight: 400;
+  font-size: 1.7em;
+}
+
 .IdeaBox {
   display: flex;
   height: 100vh;
@@ -151,6 +158,7 @@ header {
   font-weight: 400;
   font-size: 1.5em;
 }
+
 
 .IdeasListItem-body {
   font-weight: 300;
